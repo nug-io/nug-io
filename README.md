@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-This is the place where I opensource stuff and break things 🤣
+This is where I open-source stuff and break things 🤣
 
 - 🔭 I'm currently working on something cool 😉
 
-- 🌱 I'm currently learning Go
+- 🌱 I’m currently learning to build projects and apps
+
+- 👯 I’m open to collaborating on development projects  
 
 - 💬 Ask me about anything related to Javascript/PHP or Express/Laravel
-
-- 👯 I'm looking to collaborate on open source projects
 
 - ⚡ Fun fact: I ❤️ Manga and Movies
 
