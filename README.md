@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things 🤣
 
 - 💬 Ask me about anything related to Javascript/PHP or Express/Laravel
 
-- 👯 I'm looking to collaborate on Simple open-source or learning-driven projects
+- 👯 I'm looking to collaborate on open source projects
 
 - ⚡ Fun fact: I ❤️ Manga and Movies
 
